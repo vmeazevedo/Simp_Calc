@@ -23,11 +23,11 @@ The application was developed to perform the calculation of four types of arithm
 
 ## Example of code operation:
 When running the application the user is faced with the main menu which contains the functions of:
-   - Sum.
-   - Subtraction.
-   - Multiplication.
-   - Division.
-   - Leave.
+  - Sum.
+  - Subtraction.
+  - Multiplication.
+  - Division.
+  - Leave.
 The user can select any of the functions in the main menu, however, he is also asked at the end of each operation if he would like to perform any more calculations, taking the user to the selection menu again so that he can choose the desired operation.
 
 ![c1](https://user-images.githubusercontent.com/40063504/78409993-8f455b00-75e1-11ea-8eb3-51d352af7583.PNG)
