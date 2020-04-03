@@ -9,6 +9,7 @@ Ao executar a aplicação o usuário se depara com o menu principal o qual cont�
   - Multiplicação.
   - Divisão.
   - Sair.
+
 O usuário pode selecionar qualquer uma das funções no menu principal, porém, ele também é questionado ao fim de cada operação se gostaria de realizar mais algum cálculo, levando o usuário ao menu de seleção novamente para que ele possa escolher a operação desejada.
 
 ![c1](https://user-images.githubusercontent.com/40063504/78409993-8f455b00-75e1-11ea-8eb3-51d352af7583.PNG)
@@ -28,6 +29,7 @@ When running the application the user is faced with the main menu which contains
   - Multiplication.
   - Division.
   - Leave.
+
 The user can select any of the functions in the main menu, however, he is also asked at the end of each operation if he would like to perform any more calculations, taking the user to the selection menu again so that he can choose the desired operation.
 
 ![c1](https://user-images.githubusercontent.com/40063504/78409993-8f455b00-75e1-11ea-8eb3-51d352af7583.PNG)
