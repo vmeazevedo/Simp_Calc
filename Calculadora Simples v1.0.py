@@ -1,3 +1,7 @@
+#Made by: Vinícius Azevedo
+#Instagram: instagram.com/v.mazevedo
+#Twitter: twitter.com/vmeazevedo
+
 print("\tBem vindo!\n\n Calculadora Simples - 1.0\n\n As operações que você pode fazer nessa calculadora são:\n \n 1-Soma\n 2-Subtração\n 3-Divisão\n 4-Multiplicação\n\n")
 
 soma = 1
